@@ -11,3 +11,7 @@ The dataset comprises the following components:
     The features are VCA, AGH, SITI, CAMBI, and Quat.
 
 2. **Object Detection Results:** This folder includes the object detection result. Each video has a CSV file representing the metrics, such as precision, recall, etc., for each X265 CRF value. For example, the "BQMall_832x480_60_0to100.csv" file is associated with the first 100 frames of the video "BQMall_832x480_60" in the SFU-HW-Objects-v1 dataset.
+
+
+## Contact
+If you have any questions regarding the dataset or the paper, please reach Ardavan Elahi via ardavan.elahi@gmail.com
