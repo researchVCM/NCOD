@@ -1,7 +1,7 @@
 # NCOD: Near-Optimum Video Compression for Object Detection Dataset
 
 This repository contains the dataset presented in the "Near-Optimum Video Compression for Object Detection" paper, which appeared in ISCAS 2023.\
-The dataset is designed to support research and experimentation in the field of video compression and video compression for machines. You can access the values of important features, such as VCA, SITI, etc., and the result of performing the YOLOv4 object detection model on the videos in the SFU-HW-Objects-v1 dataset.
+The dataset is designed to support research and experimentation in the field of video compression and video compression for machines. You can access the values of important features, such as VCA, SITI, etc., and the result of performing the YOLOv4 object detection model on the videos in the [SFU-HW-Objects-v1](https://www.sciencedirect.com/science/article/pii/S2352340920315808) dataset.
 
 ## Dataset Contents
 
